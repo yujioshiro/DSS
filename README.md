@@ -1,5 +1,12 @@
-DeepSkyStacker
-==============
+# DeepSkyStacker
+
+- [Downloading DSS](#downloading-DSS)
+
+- [Contributing to DSS](#contributing-to-DSS)
+
+- [Sponsoring DSS](sponsoring-DSS)
+
+### Important Information about DeepSkyStacker
 
 This is the github repository for all the DeepSkyStacker source code.
 
@@ -16,9 +23,15 @@ Copyright (c) 2006-2019, Luc Coiffier
 Copyright (c) 2018-2023, David C. Partridge, Tony Cook, Mat Draper,
 					Simon C. Smith, Vitali Pelenjow, Michal Schulz,
 					Martin Toeltsch, Iustin Amihaesei
+
+## Downloading DSS
+DeepSkyStacker can be downloaded through the release page at: [https://github.com/deepskystacker/DSS/releases/tag/5.1.5](https://github.com/deepskystacker/DSS/releases/tag/5.1.5). While the latest release can only be used on 64-bit versions of Windows 10 and later, older releases can be used on 32-bit machines. Download instructions and information can be found on the release page.
+
+The software released at [http://deepskystacker.free.fr/](http://deepskystacker.free.fr/) is out of date and there are no plans to update it at this time. All releases will use this github repository at the link provided in the first paragraph. And while the software is no longer being released at this site, you can still find the manual and other helpful guides on the sidebar.
+
+If you have any questions, comments, feature requests, or want to share your finished images, please join the forum at [https://groups.io/g/DeepSkyStacker](https://groups.io/g/DeepSkyStacker) and create a new message.
 					
-Building DeepSkyStacker:
-------------------------
+## Contributing to DSS
 
 To work on the current development codebase which uses a VS solution file called DeepSkyStacker.VS2022.sln,
 you will need to install Visual Studio 2022 (17.7.2).   For earlier code versions either VS2019 or VS2022 will work.
@@ -51,3 +64,6 @@ You can download the 2.5.9 of this from [Visual Leak Detector](https://github.co
 You should install it to C:\Program Files (x86)\Visual Leak Detector as that is the location that the DeepSkyStacker projects expect to find it.
 In the Visual Leak Detector installation wizard, be sure to check "Add VLD directory to your environmental path".
 
+
+## Sponsoring DSS
+We accept financial contributions from those that would like to give. Please keep in mind this is entirely voluntary. You can read more information on sponsoring this project at [https://github.com/sponsors/deepskystacker?o=esb](https://github.com/sponsors/deepskystacker?o=esb).
